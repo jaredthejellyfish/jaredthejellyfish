@@ -20,7 +20,7 @@
 
 
 
-<h2 align="left">Programmer Stats:</h2>
+<h2 align="left">Weekly Stats:</h2>
 
 
 <!--START_SECTION:waka-->
