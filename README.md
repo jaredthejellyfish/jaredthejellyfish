@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredthejellyfish&label=Profile%20views&color=0e75b6&style=flat" alt="jaredthejellyfish" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/61cabc84-7492-4f6a-b301-5bbbdd324bc5.svg)](https://wakatime.com/@61cabc84-7492-4f6a-b301-5bbbdd324bc5)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jaredthejellyfish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaredthejellyfish" height="30" width="40" /></a>
