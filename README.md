@@ -28,11 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    2 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
-Python        1 hr 54 mins    █████████░░░░░░░░░░░░░░░░   35.47 %
-Objective-C   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-GDScript      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Assembly      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+TypeScript       11 hrs 7 mins   ██████████████████▒░░░░░░   72.99 %
+Python           1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Objective-C      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+ActionScript 3   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+GDScript         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
