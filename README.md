@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/jaredthejellyfish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaredthejellyfish" height="30" width="40" /></a>
 <a href="https://dev.to/jaredthejellyfish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaredthejellyfish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gerard-almenara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerard-almenara/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gerard-almenara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerard-almenara/" height="30" width="40" /></a>
 <a href="https://instagram.com/jaredthejellyfish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaredthejellyfish" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaredthejelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaredthejelly" height="30" width="40" /></a>
 </p>
