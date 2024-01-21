@@ -28,11 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        27 mins         ██████████████▓░░░░░░░░░░   59.05 %
-TypeScript   16 mins         █████████░░░░░░░░░░░░░░░░   35.66 %
-TSConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
