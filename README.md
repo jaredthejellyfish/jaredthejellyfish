@@ -28,11 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        1 hr 48 mins    ███████████████████▒░░░░░   77.98 %
-TypeScript   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-MDX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
