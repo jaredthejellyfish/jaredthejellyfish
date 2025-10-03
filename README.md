@@ -28,7 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+INI     0 secs          ███████████████████▓░░░░░   78.06 %
+Other   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
 ```
 
 <!--END_SECTION:waka-->
