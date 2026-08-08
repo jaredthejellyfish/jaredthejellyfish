@@ -70,11 +70,11 @@ I like creating software that feels polished, fast, and genuinely useful — not
 <!--START_SECTION:waka-->
 
 ```txt
-Other      54 mins               ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Markdown   48 mins               ████████░░░░░░░░░░░░░░░░░   31.42 %
-Python     38 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-JSON       10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-TOML       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python       1 hr 16 mins          ████████▓░░░░░░░░░░░░░░░░   35.08 %
+Markdown     1 hr 6 mins           ███████▓░░░░░░░░░░░░░░░░░   30.46 %
+Other        59 mins               ███████░░░░░░░░░░░░░░░░░░   27.48 %
+JSON         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+TOML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
