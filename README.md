@@ -70,11 +70,11 @@ I like creating software that feels polished, fast, and genuinely useful — not
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 5 mins          ███████████████▒░░░░░░░░░   61.52 %
-JavaScript   57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Python       56 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Swift        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Markdown     35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+TypeScript   6 hrs 30 mins         ███████████████▒░░░░░░░░░   61.54 %
+JavaScript   57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+Python       56 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Swift        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JSON         35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 ```
 
 <!--END_SECTION:waka-->
